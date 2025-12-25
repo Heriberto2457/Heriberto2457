@@ -1,64 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=140&section=header&text=HERIBERTO%20PAT%20MOO&fontSize=38&fontColor=38bdf8&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:020617&height=180&section=header&text=HERIBERTO%20PAT%20MOO&fontSize=38&fontColor=38bdf8&animation=fadeIn" />
 
-<!-- ================= SVG FUTURISTA ================= -->
-<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <!-- Glow -->
-    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#020617" stop-opacity="0"/>
-    </radialGradient>
-
-    <!-- Glitch -->
-    <filter id="glitch">
-      <feColorMatrix type="matrix"
-        values="1 0 0 0 0
-                0 1 0 0 0
-                0 0 1 0 0
-                0 0 0 1 0"/>
-      <feOffset dx="1" dy="0"/>
-    </filter>
-  </defs>
+<!-- ===== PARTICULAS SVG (COMPATIBLE GITHUB) ===== -->
+<svg width="420" height="200" viewBox="0 0 420 200" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Particulas -->
-  <g fill="#38bdf8" opacity="0.7">
-    <circle cx="40" cy="40" r="1.5">
+  <g fill="#38bdf8" opacity="0.6">
+    <circle cx="50" cy="40" r="1.2">
       <animate attributeName="cy" from="40" to="20" dur="6s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="80" cy="120" r="1.2">
-      <animate attributeName="cx" from="80" to="100" dur="7s" repeatCount="indefinite"/>
+    <circle cx="120" cy="120" r="1">
+      <animate attributeName="cx" from="120" to="140" dur="7s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="140" cy="60" r="1.8">
+    <circle cx="200" cy="60" r="1.5">
       <animate attributeName="cy" from="60" to="90" dur="8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="300" cy="80" r="1.3">
+    <circle cx="300" cy="90" r="1">
       <animate attributeName="cx" from="300" to="280" dur="6s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="360" cy="140" r="1.6">
+    <circle cx="360" cy="140" r="1.3">
       <animate attributeName="cy" from="140" to="110" dur="9s" repeatCount="indefinite"/>
     </circle>
   </g>
 
-  <!-- HUD lines -->
-  <line x1="120" y1="110" x2="300" y2="110" stroke="#a855f7" stroke-width="0.6" opacity="0.4"/>
-  <line x1="210" y1="40" x2="210" y2="180" stroke="#38bdf8" stroke-width="0.6" opacity="0.4"/>
-
   <!-- Orbita -->
-  <circle cx="210" cy="110" r="55" fill="none" stroke="#a855f7" stroke-width="0.8" opacity="0.6">
-    <animateTransform attributeName="transform" type="rotate"
-      from="0 210 110" to="360 210 110" dur="12s" repeatCount="indefinite"/>
+  <circle cx="210" cy="100" r="45" fill="none" stroke="#a855f7" stroke-width="0.6" opacity="0.6">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 210 100"
+      to="360 210 100"
+      dur="18s"
+      repeatCount="indefinite"/>
   </circle>
 
-  <!-- Core -->
-  <circle cx="210" cy="110" r="60" fill="url(#coreGlow)">
-    <animate attributeName="r" from="55" to="65" dur="4s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="210" cy="110" r="4" fill="#ffffff" filter="url(#glitch)">
-    <animate attributeName="opacity" values="1;.6;1" dur="1.5s" repeatCount="indefinite"/>
+  <!-- Nucleo -->
+  <circle cx="210" cy="100" r="4" fill="#ffffff">
+    <animate attributeName="opacity" values="1;.5;1" dur="2s" repeatCount="indefinite"/>
   </circle>
 
 </svg>
@@ -77,7 +56,7 @@ Especializado en <b>Desarrollo Web</b> y <b>Bots de WhatsApp</b><br>
 
 ---
 
-## 🧩 Stack Tecnologico
+## 🛠️ Stack Tecnologico
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=38bdf8"/>
@@ -89,11 +68,11 @@ Especializado en <b>Desarrollo Web</b> y <b>Bots de WhatsApp</b><br>
 
 ---
 
-## 🚀 Que hago
+## 🚀 A que me dedico
 
 - Desarrollo **interfaces web modernas**
-- Creo **bots de WhatsApp** y sistemas automatizados
-- Diseño soluciones enfocadas en eficiencia
+- Creo **bots de WhatsApp** para automatizacion
+- Construyo soluciones enfocadas en eficiencia
 - Aprendo constantemente nuevas tecnologias
 
 ---
@@ -101,12 +80,12 @@ Especializado en <b>Desarrollo Web</b> y <b>Bots de WhatsApp</b><br>
 ## 📊 Estadisticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heriberto2457&show_icons=true&bg_color=020617&title_color=38bdf8&icon_color=a855f7&text_color=ffffff&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heriberto2457&layout=compact&bg_color=020617&title_color=38bdf8&text_color=ffffff&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Heriberto2457&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heriberto2457&layout=compact&theme=transparent&hide_border=true" height="160"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=50&section=footer&text=END%20OF%20TRANSMISSION&fontColor=38bdf8&fontSize=14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:020617&height=120&section=footer"/>
 </div>
