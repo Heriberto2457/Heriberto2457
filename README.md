@@ -48,18 +48,9 @@ Especializado en <b>JavaScript</b>, <b>Node.js</b> y <b>Bots de WhatsApp</b><br>
 - 🔭 Desarrollo de **Bots de WhatsApp** con Node.js + Baileys  
 - 🌱 Mejora continua en **SCSS y diseño responsivo**
 - 🧪 Experimentacion con **automatizacion y scripting**
-- ⚡ Lema: *Si se puede automatizar, se debe automatizar*
+- ⚡ Lema: *En Nadien Confio, Con Todos Me Rio*
 
----
 
-## 📊 METRICAS DEL SISTEMA
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heriberto2457&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&locale=es" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heriberto2457&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&locale=es" height="165"/>
-</div>
-
----
 
 <div align="center">
 
