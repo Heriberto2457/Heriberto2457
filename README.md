@@ -1,42 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:020617,100:020617&text=HERIBERTO%20PAT%20MOO&fontSize=36&fontColor=38bdf8&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffcc,100:0d1117&height=220&section=header&text=HERIBERTO%20PAT%20MOO&fontSize=42&fontColor=00ffcc&animation=twinkling" />
 
-<svg width="420" height="140" viewBox="0 0 420 140" xmlns="http://www.w3.org/2000/svg">
-  <!-- fondo -->
-  <rect width="420" height="140" fill="#020617"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00FFCC&center=true&vCenter=true&width=750&lines=>>+Web+Developer+%7C+Bot+Engineer;>>+Node.js+%7C+JavaScript+%7C+Linux;>>+Automatizando+el+mundo+una+linea+de+codigo+a+la+vez;>>+SYSTEM+STATUS%3A+ONLINE+%F0%9F%9A%80" />
 
-  <!-- particulas sutiles -->
-  <g fill="#38bdf8" opacity="0.35">
-    <circle cx="60" cy="40" r="1">
-      <animate attributeName="cy" from="40" to="20" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="120" cy="90" r="1.2">
-      <animate attributeName="cx" from="120" to="150" dur="10s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="200" cy="50" r="1">
-      <animate attributeName="cy" from="50" to="80" dur="9s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="300" cy="70" r="1.3">
-      <animate attributeName="cx" from="300" to="270" dur="11s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="360" cy="110" r="1">
-      <animate attributeName="cy" from="110" to="90" dur="12s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- linea central elegante -->
-  <line x1="110" y1="70" x2="310" y2="70"
-        stroke="#38bdf8" stroke-width="0.6" opacity="0.4"/>
-</svg>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Desarrollo+Web+y+Bots+de+WhatsApp;JavaScript+%7C+Node.js+%7C+Linux;Automatizando+procesos+reales;Siempre+aprendiendo" />
-</a>
+<br>
 
 <p align="center">
-<b>Desarrollo web</b> · <b>automatizacion</b> · <b>bots de WhatsApp</b><br>
-🧠 Pensamiento tecnico · ⚡ Eficiencia · 🐧 Linux
+🧬 <b>Construyo interfaces</b> · <b>automatizo procesos</b> · <b>rompo lo repetitivo</b><br>
+Especializado en <b>JavaScript</b>, <b>Node.js</b> y <b>Bots de WhatsApp</b><br>
+🐧 Linux user · ⚡ Automation mindset · 🧠 Always learning
 </p>
+
+</div>
+
+---
+
+## 🧩 SYSTEM MODULES
+
+### 🎨 FRONTEND
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/SCSS-0d1117?style=for-the-badge&logo=sass&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ffcc"/>
+</p>
+
+### 🤖 BACKEND & AUTOMATION
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/WhatsApp_Bots-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/Baileys_Library-0d1117?style=for-the-badge&logo=robotframework&logoColor=00ffcc"/>
+</p>
+
+### ⚙️ TOOLS
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00ffcc"/>
+</p>
+
+---
+
+## 🧠 OPERATION LOG
+
+- 🔭 Developing **WhatsApp Bots** with Node.js + Baileys  
+- 🌱 Improving **SCSS & responsive design**
+- 🧪 Experimenting with automation & scripting
+- ⚡ Motto: *If it can be automated, it should be automated*
+
+---
+
+## 📦 CORE PROJECTS
+
+🧬 **Baileys WhatsApp Bot**  
+> Automatizacion avanzada de mensajeria  
+🔗 https://github.com/Heriberto2457/baileys-heriberto
+
+🚀 **Solid Quickstart**  
+> Base moderna para proyectos frontend  
+🔗 https://github.com/Heriberto2457/solid-quickstart
+
+---
+
+## 📊 SYSTEM METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Heriberto2457&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heriberto2457&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff" height="165"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=footer&text=>>+END+OF+TRANSMISSION&fontColor=00ffcc&fontSize=14" />
 
 </div>
