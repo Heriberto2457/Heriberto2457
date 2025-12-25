@@ -1,14 +1,42 @@
-<h1 align="center">Hola 👋, soy Heriberto Pat</h1>
-<h3 align="center">Soy un desarrollador</h3>
+<div align="center">
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="izquierda">
-<a href="https://dev.to/heriberto-2457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heriberto-2457" height="30" width="40" /></a>
-<a href="https://fb.com/heriberto pat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heriberto pat" altura="30" ancho="40" /></a>
-<a href="https://instagram.com/heriberto_2457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heriberto_2457" height="30" width="40" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:020617,100:020617&text=HERIBERTO%20PAT%20MOO&fontSize=36&fontColor=38bdf8&animation=fadeIn" />
+
+<svg width="420" height="140" viewBox="0 0 420 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- fondo -->
+  <rect width="420" height="140" fill="#020617"/>
+
+  <!-- particulas sutiles -->
+  <g fill="#38bdf8" opacity="0.35">
+    <circle cx="60" cy="40" r="1">
+      <animate attributeName="cy" from="40" to="20" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="90" r="1.2">
+      <animate attributeName="cx" from="120" to="150" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="50" r="1">
+      <animate attributeName="cy" from="50" to="80" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="70" r="1.3">
+      <animate attributeName="cx" from="300" to="270" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="360" cy="110" r="1">
+      <animate attributeName="cy" from="110" to="90" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- linea central elegante -->
+  <line x1="110" y1="70" x2="310" y2="70"
+        stroke="#38bdf8" stroke-width="0.6" opacity="0.4"/>
+</svg>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Desarrollo+Web+y+Bots+de+WhatsApp;JavaScript+%7C+Node.js+%7C+Linux;Automatizando+procesos+reales;Siempre+aprendiendo" />
+</a>
+
+<p align="center">
+<b>Desarrollo web</b> · <b>automatizacion</b> · <b>bots de WhatsApp</b><br>
+🧠 Pensamiento tecnico · ⚡ Eficiencia · 🐧 Linux
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="izquierda"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" ancho="40" alto="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" ancho="40" alto="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"ancho="40" alto="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" ancho="40" alto="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" ancho="40" alto="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" objetivo="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" ancho="40" alto="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" ancho="40" alto="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" ancho="40" alto="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" ancho="40" alto="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho="40" alto="40"/> </a> <a href="https://nodejs.org" target="_blank"rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" ancho="40" alto="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" ancho="40" alto="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reaccionar" ancho="40"altura="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" ancho="40" alto="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unidad" ancho="40" alto="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" ancho="40" alto="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heriberto2457&show_icons=true&locale=en&layout=compact" alt="heriberto2457" /></p>
+</div>
