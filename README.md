@@ -1,91 +1,14 @@
-<div align="center">
+<h1 align="center">Hola 👋, soy Heriberto Pat</h1>
+<h3 align="center">Soy un desarrollador</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:020617&height=180&section=header&text=HERIBERTO%20PAT%20MOO&fontSize=38&fontColor=38bdf8&animation=fadeIn" />
-
-<!-- ===== PARTICULAS SVG (COMPATIBLE GITHUB) ===== -->
-<svg width="420" height="200" viewBox="0 0 420 200" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Particulas -->
-  <g fill="#38bdf8" opacity="0.6">
-    <circle cx="50" cy="40" r="1.2">
-      <animate attributeName="cy" from="40" to="20" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="120" cy="120" r="1">
-      <animate attributeName="cx" from="120" to="140" dur="7s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="200" cy="60" r="1.5">
-      <animate attributeName="cy" from="60" to="90" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="300" cy="90" r="1">
-      <animate attributeName="cx" from="300" to="280" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="360" cy="140" r="1.3">
-      <animate attributeName="cy" from="140" to="110" dur="9s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- Orbita -->
-  <circle cx="210" cy="100" r="45" fill="none" stroke="#a855f7" stroke-width="0.6" opacity="0.6">
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 210 100"
-      to="360 210 100"
-      dur="18s"
-      repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Nucleo -->
-  <circle cx="210" cy="100" r="4" fill="#ffffff">
-    <animate attributeName="opacity" values="1;.5;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-
-</svg>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Automatizando+el+mundo+una+linea+de+codigo;Desarrollo+Web+y+Bots+de+WhatsApp;JavaScript+%7C+Node.js+%7C+Linux;Siempre+aprendiendo+algo+nuevo" />
-</a>
-
-<p align="center">
-🧬 <b>Construyo interfaces</b> · <b>automatizo procesos</b> · <b>simplifico lo repetitivo</b><br>
-Especializado en <b>Desarrollo Web</b> y <b>Bots de WhatsApp</b><br>
-🐧 Linux user · ⚡ Automation mindset · 🧠 Always learning
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="izquierda">
+<a href="https://dev.to/heriberto-2457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heriberto-2457" height="30" width="40" /></a>
+<a href="https://fb.com/heriberto pat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heriberto pat" altura="30" ancho="40" /></a>
+<a href="https://instagram.com/heriberto_2457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heriberto_2457" height="30" width="40" /></a>
 </p>
 
-</div>
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="izquierda"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" ancho="40" alto="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" ancho="40" alto="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"ancho="40" alto="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" ancho="40" alto="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" ancho="40" alto="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" objetivo="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" ancho="40" alto="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" ancho="40" alto="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" ancho="40" alto="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" ancho="40" alto="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho="40" alto="40"/> </a> <a href="https://nodejs.org" target="_blank"rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" ancho="40" alto="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" ancho="40" alto="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reaccionar" ancho="40"altura="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" ancho="40" alto="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unidad" ancho="40" alto="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" ancho="40" alto="40"/> </a> </p>
 
----
-
-## 🛠️ Stack Tecnologico
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=38bdf8"/>
-</p>
-
----
-
-## 🚀 A que me dedico
-
-- Desarrollo **interfaces web modernas**
-- Creo **bots de WhatsApp** para automatizacion
-- Construyo soluciones enfocadas en eficiencia
-- Aprendo constantemente nuevas tecnologias
-
----
-
-## 📊 Estadisticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heriberto2457&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heriberto2457&layout=compact&theme=transparent&hide_border=true" height="160"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:020617&height=120&section=footer"/>
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heriberto2457&show_icons=true&locale=en&layout=compact" alt="heriberto2457" /></p>
