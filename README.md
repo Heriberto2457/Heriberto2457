@@ -52,23 +52,11 @@ Especializado en <b>JavaScript</b>, <b>Node.js</b> y <b>Bots de WhatsApp</b><br>
 
 ---
 
-## 📦 CORE PROJECTS
-
-🧬 **Baileys WhatsApp Bot**  
-> Automatizacion avanzada de mensajeria  
-🔗 https://github.com/Heriberto2457/baileys-heriberto
-
-🚀 **Solid Quickstart**  
-> Base moderna para proyectos frontend  
-🔗 https://github.com/Heriberto2457/solid-quickstart
-
----
-
 ## 📊 SYSTEM METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heriberto2457&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heriberto2457&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Heriberto2457&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heriberto2457&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </div>
 
 ---
